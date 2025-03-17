@@ -8,6 +8,7 @@ FEATURES:
 • Utilizes a Raspberry Pi Pico and the GP2040-CE Open Source Software.
 (Link to the GP2040-CE Software: https://gp2040-ce.info/introduction/)
 
+• It has 16 buttons.
 
 MAIN COMPONENTS:
 
