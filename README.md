@@ -17,3 +17,13 @@ MAIN COMPONENTS:
 • Tactile Buttons
 
 • Resistors
+
+
+
+****UPDATE
+
+• I have finished soldering all the buttons.
+
+• I have added a 0.96" Oled screen. 
+
+• I plan to add a USB Passthrough port to allow the controller to be used on consoles.
